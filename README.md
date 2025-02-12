@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=90B1DB&section=header&text=loti:%20IT%20service%20for%20Law&fontSize=30&animation=blink&fontColor=ffffff&&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=90B1DB&section=header&text=loti:%20IT%20service%20for%20Law&fontSize=30&animation=blink&fontColor=ffffff&&fontAlignY=35)
 
 ### 🧑🏻‍💻 members
 - 고원(gouwon): https://github.com/gouwon
