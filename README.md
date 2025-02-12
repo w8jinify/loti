@@ -5,11 +5,11 @@
 - jineey : https://github.com/jineey030
 
 ### 🛠️ Tools 
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+![Static Badge](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Static Badge](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w8jinify&langs_count=8)](https://github.com/w8jinify/github-readme-stats)
 
