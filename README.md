@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&height=200&color=90B1DB&section=header&text=loti:%20IT%20service%20for%20Law&fontSize=30&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=90B1DB&section=header&text=loti:%20IT%20service%20for%20Law&fontSize=30&animation=blink&fontColor=ffffff&&fontAlignY=20)
 
 ### 🧑🏻‍💻 members
 - 고원(gouwon): https://github.com/gouwon
@@ -16,4 +16,4 @@
 ### 👀 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fw8jinify&count_bg=%2368BA29&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=wave&color=90B1DB&animation=blink)
+![footer](https://capsule-render.vercel.app/api?section=footer&height=150&type=waving&color=90B1DB&animation=blink)
