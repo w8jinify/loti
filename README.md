@@ -4,6 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=3000&color=3387F7&center=true&vCenter=true&multiline=true&width=800&lines=We+make+it+easy+for+you+to+focus+on+development%F0%9F%94%A5)](https://git.io/typing-svg)
 
+<br>
+-----
+
 ### 🧑🏻‍💻 members
 gouwon: https://github.com/gouwon <br>
 jineey : https://github.com/jineey030
