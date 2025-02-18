@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=90B1DB&section=header&text=loti:%20IT%20service%20for%20Law&fontSize=30&animation=blink&fontColor=ffffff&&fontAlignY=35)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=3000&color=3387F7&multiline=true&lines=We+make+it+easy+for+you+;to+focus+on+development%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&duration=3000&color=3387F7&multiline=true&width=1000&lines=We+make+it+easy+for+you+to+focus+on+development%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ### 🧑🏻‍💻 members
 gouwon: https://github.com/gouwon <br>
