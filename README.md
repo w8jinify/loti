@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=3000&color=3387F7&multiline=true&lines=We+make+it+easy+for+you+;to+focus+on+development%F0%9F%94%A5)](https://git.io/typing-svg)
 
 ### 🧑🏻‍💻 members
-- 고원(gouwon): https://github.com/gouwon
-- jineey : https://github.com/jineey030
+1️⃣ gouwon: https://github.com/gouwon
+2️⃣ jineey : https://github.com/jineey030
 
 ### 🛠️ Tools 
 ![Static Badge](https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellijidea&logoColor=white)
