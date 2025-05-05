@@ -17,7 +17,7 @@
         <!-- Java -->
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
         <!-- Spring Boot -->
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
         <!-- React -->
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
         <!-- MySQL -->
@@ -29,7 +29,8 @@
     <!-- stats -->
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
-    <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=w8jinify&bg_color=60,c3b8ea,e6d9ec&title_color=ffffff&text_color=ffffff"/>
+    <div style="text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api?username=w8jinify&bg_color=60,c3b8ea,e6d9ec&title_color=ffffff&text_color=ffffff"/>
  </div> 
     <!-- footer -->
  <div align= "center">
